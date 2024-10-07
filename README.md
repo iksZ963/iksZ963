@@ -1,4 +1,4 @@
-# Hi there, I'm Khodadad Md Ziaul Huda 👋
+# Hi! Ziaul here! 👋
 
 ## 🚀 About Me
 I am a passionate software engineer with over five years of experience in web development and team collaboration. I specialize in PHP, JavaScript, and Python, and I have a strong background in both frontend and backend development. Currently, I am seeking remote opportunities to leverage my skills in a dynamic tech company.
