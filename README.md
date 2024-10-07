@@ -34,8 +34,8 @@ Currently, I'm seeking remote opportunities to leverage my skills in a dynamic t
 ## 🛠️ Skills
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks
@@ -50,6 +50,7 @@ Currently, I'm seeking remote opportunities to leverage my skills in a dynamic t
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -68,10 +69,13 @@ Currently, I'm seeking remote opportunities to leverage my skills in a dynamic t
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📊 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iksZ963&layout=compact&theme=radical)
+
 ## 📈 GitHub Stats
 ![K. Md Ziaul Huda's GitHub stats](https://github-readme-stats.vercel.app/api?username=iksZ963&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
-**Email:** [kmziaulhuda@outlook.com](mailto:kmziaulhuda@outlook.com)
-**LinkedIn:** [K. Md Ziaul Huda](https://linkedin.com/in/k-md-ziaul-huda)
-**LeetCode:** [iksZ963](https://leetcode.com/iksZ963)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kmziaulhuda@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-md-ziaul-huda)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/iksZ963)
