@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate software engineer with over five years of experience in web development and team collaboration. By day, I code and build amazing web applications; by night, I'm a Pokémon Master in training! 🕹️✨
 
-Currently, I'm seeking remote opportunities to leverage my skills in a dynamic tech company.
+Currently, I'm on a quest to find remote opportunities where I can use my skills to evolve and level up in a dynamic tech company. Let's catch 'em all together!
 
 ⠐⣶⣾⣭⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡄⠀⠄⠀⠀⠀⠀⠀
 ⠀⠹⣿⣿⣧⠈⠙⠳⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠴⢻⣿⣿⣿⢇⠀⠀⠀⠀⠀
@@ -69,13 +69,28 @@ Currently, I'm seeking remote opportunities to leverage my skills in a dynamic t
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iksZ963&layout=compact&theme=radical)
-
-## 📈 GitHub Stats
-![K. Md Ziaul Huda's GitHub stats](https://github-readme-stats.vercel.app/api?username=iksZ963&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td valign="top"><!-- 📊 Languages Used --> 
+      <h2>📊 Languages Used</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iksZ963&layout=compact&theme=radical" />
+    </td>
+    <td valign="top"><!-- 📈 GitHub Stats -->
+      <h2>📈 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=iksZ963&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kmziaulhuda@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-md-ziaul-huda)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/iksZ963)
+
+### 🎮 By the way, say hello to my team!
+![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png)
+![Cyndaquil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png)
+![Mudkip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png)
+![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
+![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png)
+![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
