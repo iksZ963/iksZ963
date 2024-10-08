@@ -82,6 +82,9 @@ Currently, I'm on a quest to find remote opportunities where I can use my skills
   </tr>
 </table>
 
+## 🎧 Currently Listening To
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31pc2indhwfolcoigppbwea6mnee&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pc2indhwfolcoigppbwea6mnee&redirect=true)
+
 ## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kmziaulhuda@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-md-ziaul-huda)
