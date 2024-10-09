@@ -79,6 +79,10 @@ Currently, I'm on a quest to find remote opportunities where I can use my skills
       <h2>📈 GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=iksZ963&show_icons=true&theme=radical" />
     </td>
+     <td valign="top"><!-- 📚 Longest Streak -->
+      <h2>📚 Longest Streak </h2>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iksZ963&theme=tokyonight" alt="mystreak"/>
+    </td>
   </tr>
 </table>
 
