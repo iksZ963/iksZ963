@@ -1,9 +1,9 @@
 # Hi! Ziaul here! 👋
 
 ## 🚀 About Me
-I'm a passionate software engineer with over five years of experience in web development and team collaboration. By day, I code and build amazing web applications; by night, I'm a Pokémon Master in training! 🕹️✨
+I'm a passionate software engineer with over five years of experience in web development and team collaboration. By day, I code and build amazing web applications; by night, I'm a Pokémon Master in training! 😴
 
-Currently, I'm on a quest to find remote opportunities where I can use my skills to evolve and level up in a dynamic tech company. Let's catch 'em all together!
+Currently, I'm on a quest to find remote opportunities where I can use my skills to evolve and level up in a dynamic tech company. Let's catch 'em DREAMS together!
 
 ⠐⣶⣾⣭⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡄⠀⠄⠀⠀⠀⠀⠀
 ⠀⠹⣿⣿⣧⠈⠙⠳⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠴⢻⣿⣿⣿⢇⠀⠀⠀⠀⠀
